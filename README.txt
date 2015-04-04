@@ -1,3 +1,4 @@
+Test Application for ToDoList Android application.
 
 This application test application for the To Do List Android application.
 The user can create a new title for the new list and add items to the list.
