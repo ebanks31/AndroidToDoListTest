@@ -9,3 +9,5 @@ if the key presses return the correct result.
 
 Robotium Link is located here: https://code.google.com/p/robotium/
 
+Test Classes are located in the Classes Folder.
+
